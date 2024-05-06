@@ -1,4 +1,4 @@
-# CIS550 Project
+# Mini Yelp Project
 
 ## Group Member
 Haitian Zhou, Jiakun Xiang, Runjie Zhao, Yujia Xu
@@ -42,5 +42,16 @@ A Yelp-like business reviews and recommendation web application, where the user 
 ---- routes.js<br />
 ---- server.js<br />
 
-## Code Notice
-Apply ```encodeURIComponent(str)``` before putting parameters into the URI to avoid the situation where you need something like ' ', '&' and '/' signs<br />
+## Page Views
+
+1. Main Page
+![alt text](./searchpage.png)<br />
+
+2. User Review Page
+![alt text](./userreviewpage.png)<br />
+
+3. Search Result Page
+![alt text](./searchresultpage.png)<br />
+
+4. Business Page
+![alt text](./businesspage.png)<br />
