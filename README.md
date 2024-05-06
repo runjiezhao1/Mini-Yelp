@@ -1,7 +1,7 @@
 # Mini Yelp Project
 
 ## Group Member
-Haitian Zhou[LinkedIn](https://www.linkedin.com/in/haitian-zhou/), Jiakun Xiang, Runjie Zhao, Yujia Xu[LinkedIn](https://www.linkedin.com/in/ivy-yujia-xu-01b8a2138/)
+[Haitian Zhou](https://www.linkedin.com/in/haitian-zhou/), [Jiakun Xiang](xiangjiak@gmail.com), [Runjie Zhao](https://www.linkedin.com/in/runjie-zhao-sde), [Yujia Xu](https://www.linkedin.com/in/ivy-yujia-xu-01b8a2138/)
 
 ## Description
 A Yelp-like business reviews and recommendation web application, where the user can search for their desired restaurant, hotel, shopping, entertainment or other business facilities by various parameters like category, rating, popularity, distance, etc.
