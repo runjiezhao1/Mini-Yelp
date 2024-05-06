@@ -1,0 +1,13 @@
+.SwitchPlace{
+    width: 30%;
+    position: relative;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin-top: 20px;
+}
+
+.SwitchPlaceAbsolute{
+    width: 100%;
+    position: relative;
+    margin-top: 20px;
+}

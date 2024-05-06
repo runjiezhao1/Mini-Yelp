@@ -1,0 +1,15 @@
+.canvasSize{
+    height: 200px;
+}
+
+#root{
+    height: 100%;
+}
+
+.App{
+    height: 100%;
+}
+
+body{
+    height: 800px;
+}
